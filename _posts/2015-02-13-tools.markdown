@@ -13,17 +13,21 @@ Roadmap/project/product management
 ----------------------------------
 
 Mind mapping
+
 * [Subtask](https://www.subtask.com/)
 * [Mindmeister](http://www.mindmeister.com/)
 
 Agile project management
+
 * [Trello](https://trello.com/)
 * [Pivotal Tracker](https://www.pivotaltracker.com/)
 
 Time tracking
+
 * [Toggl](https://www.toggl.com/)
 
 Roadmap/products management
+
 * [Aha](http://www.aha.io/)
 * [Roadmunk](https://roadmunk.com/)
 
@@ -31,16 +35,20 @@ Monitoring
 ----------
 
 Metrics
+
 * [Datadog](https://www.datadoghq.com/)
 * [Librato](https://metrics.librato.com/)
 
 Status pages
+
 * [StatusPage.io](https://www.statuspage.io/)
 
 Logs
+
 * [PaperTrail](https://papertrailapp.com/)
 
 Error management
+
 * [Rollbar](https://rollbar.com/)
 
 Web performance
@@ -53,12 +61,15 @@ Development/Testing
 -------------------
 
 Continuous integration/delivery
+
 * [wercker](http://wercker.com/)
 
 Translation
+
 * [PhraseApp](http://phraseapp.com/)
 
 Documentation
+
 * [Readme.io](https://readme.io/)
 
 Mapping/Routing
