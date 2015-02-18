@@ -9,41 +9,72 @@ Here is a collection of tools I find useful. I once thought such tools were too 
 
 My advice would be to spend a few bucks on a couple of tools, and use the time spared by the productivity gain on the product.
 
+Roadmap/project/product management
+----------------------------------
+
+Mind mapping
+* [Subtask](https://www.subtask.com/)
+* [Mindmeister](http://www.mindmeister.com/)
+
+Agile project management
+* [Trello](https://trello.com/)
+* [Pivotal Tracker](https://www.pivotaltracker.com/)
+
+Time tracking
+* [Toggl](https://www.toggl.com/)
+
+Roadmap/products management
+* [Aha](http://www.aha.io/)
+* [Roadmunk](https://roadmunk.com/)
+
+Monitoring
+----------
+
+Metrics
+* [Datadog](https://www.datadoghq.com/)
+* [Librato](https://metrics.librato.com/)
+
+Status pages
+* [StatusPage.io](https://www.statuspage.io/)
+
+Logs
+* [PaperTrail](https://papertrailapp.com/)
+
+Error management
+* [Rollbar](https://rollbar.com/)
+
 Web performance
 ---------------
 
 * [ShowSlow](http://www.showslow.com/)
 * [WebPageTest](http://www.webpagetest.org/)
 
-Roadmap/project management
---------------------------
-
-* [Subtask](https://www.subtask.com/)
-* [Mindmeister](http://www.mindmeister.com/)
-* [Trello](https://trello.com/)
-* [Pivotal Tracker](https://www.pivotaltracker.com/)
-* [Toggl](https://www.toggl.com/)
-* [Aha](http://www.aha.io/)
-* [Roadmunk](https://roadmunk.com/)
-
-Devops/Monitoring
------------------
-
-* [Datadog](https://www.datadoghq.com/)
-* [Librato](https://metrics.librato.com/)
-* [StatusPage.io](https://www.statuspage.io/)
-* [PaperTrail](https://papertrailapp.com/)
-* [Rollbar](https://rollbar.com/)
-
 Development/Testing
 -------------------
 
+Continuous integration/delivery
 * [wercker](http://wercker.com/)
+
+Translation
 * [PhraseApp](http://phraseapp.com/)
+
+Documentation
 * [Readme.io](https://readme.io/)
+
+Mapping/Routing
+---------------
+
+* [MapBox](https://www.mapbox.com/)
+* [Navitia.io](http://navitia.io/)
 
 Analytics
 ---------
 
 * [Keen](http://keen.io)
 * [Heap](https://heapanalytics.com/)
+
+SEO
+---
+
+* [SEM Rush](http://www.semrush.com/)
+* [Botify](https://www.botify.com/)
